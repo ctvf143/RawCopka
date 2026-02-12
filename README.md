@@ -18,3 +18,5 @@ https://github.com/ctvf143/RawCopka/releases/download/v1.0/RawCopka_build1.0.rar
 можете использовать его для запуска или найти main.exe в папке main и сделать себе ярлык.
 
 По поводу конфига: можете сразу его заполнить 
+
+tg:@ctvff
